@@ -1,0 +1,9 @@
+{
+  "mongo-db": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "pubsub",
+    "name": "mongo-db",
+    "connector": "mongodb"
+  }
+}
